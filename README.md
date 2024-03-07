@@ -1,7 +1,7 @@
 ### Hi there 👋, Naveed Shahid
 #### Development and Technical Writing
 
-I'm Naveed from Finland, and I do full-stack web development and technical writing.
+I'm Naveed from Finland, and I do full-stack web development and technical writing. I am always keen to learn languages and frameworks.
 
 Skills: PHP / REACT / JS / HTML / CSS / AWS Cloud
 
