@@ -1,5 +1,5 @@
 ### Hi there 👋, Naveed Shahid
-#### Development and Technical Writin
+#### Development and Technical Writing
 
 I'm Naveed from Finland, and I do full-stack web development and technical writing.
 
