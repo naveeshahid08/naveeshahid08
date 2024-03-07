@@ -1,5 +1,6 @@
 ### Hi there 👋, Naveed Shahid
 #### Development and Technical Writing
+https://github.com/naveeshahid08/naveeshahid08/blob/main/github-header-image%20(2).png
 
 I'm Naveed from Finland, and I do full-stack web development and technical writing. I am always keen to learn languages and frameworks.
 
